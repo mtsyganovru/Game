@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_b083f766f86221347940c57537b8af355f86a834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-ai-1.8.0_1bd56627ec64237b915ca883523d6b159567f519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_198b05bc94f5112a743f78a851c673298532827e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_d8a449c6682013bbcc727a4f6dcdb95ae8cdab1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.8\8cdc9ab6826a74594c3b0084d8a7669f8124592b\gdx-controllers-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8cdc9ab6826a74594c3b0084d8a7669f8124592b">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.9.8_461eccf39e7e5feeab9a0266271b611dde19118d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\testing\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dcfdf573169bd709fd0898c0ddafd76fb3ebb23c">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\core-1.0_7b766fa318e89902f5bb6fc992e1e801fa748f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\huy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.8\2648f2bf0caac922da2643ac57dd93b45846eff5\gdx-controllers-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2648f2bf0caac922da2643ac57dd93b45846eff5">
+        <dex dex="C:\testing\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.9.8_3124767d07ab1511adebe68f6217b401900cb711.jar" />
+    </item>
+
+</items>
